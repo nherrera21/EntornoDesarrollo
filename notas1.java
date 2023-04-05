@@ -15,7 +15,7 @@ public class notas {
      * Este método solicita la introducción de las notas de las UF por parte del
      * usuario.
      */
-    public void IngresaNota() {
+    public void IngresaNotas() {
         System.out.println("Ingrese las notas del estudiante");
         System.out.print("Ingrese nota 1: ");
         uf1 = entrada.nextDouble();
