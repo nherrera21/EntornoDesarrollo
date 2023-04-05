@@ -29,7 +29,7 @@ public class notas {
      * Este método comprueba que las notas introducidas estén en el rango
      * correcto.
      */
-    public void comprobar() {
+    public void comprobacion() {
         if (uf1 > 10) {
             System.out.println("Nota 1 mal introducida");
         } else {
