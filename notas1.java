@@ -99,7 +99,7 @@ public class notas {
         fc.IngresaNotas();
 
 // Llamamos al método comprobarcion() para comprobar que las notas introducidas son correctas
-        fc.comprobarcion();
+        fc.comprobar();
 
 // Llamamos al método Calculonotas() para calcular la nota definitiva
         fc.Calculonotas();
