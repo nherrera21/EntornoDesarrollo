@@ -19,7 +19,7 @@ public class notas {
         System.out.println("Ingrese las notas del estudiante");
         System.out.print("Ingrese nota 1: ");
         uf1 = entrada.nextDouble();
-        System.out.print("Ingrese nota 2: ");
+        System.out.print("Ingrese notad 2: ");
         uf2 = entrada.nextDouble();
         System.out.print("Ingrese nota 3: ");
         uf3 = entrada.nextDouble();
