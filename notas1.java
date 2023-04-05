@@ -75,7 +75,7 @@ public class notas {
     /**
      * Este método comprueba si el estudiante ha aprobado o suspendido.
      */
-    public void aprobado() {
+    public void aprobados() {
         if (def < 5 && def >= 0) {
             System.out.println("Suspendido");
         } else {
